@@ -1,0 +1,5 @@
+1. npm i pug --save
+2. craete a folder views
+3. use res.render instead of res.send
+4. convert HTML to pug
+5. store *.pug file into views folder

@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PalindromeExample\bin\Debug\PalindromeExample.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PalindromeExample\bin\Debug\PalindromeExample.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PalindromeExample\bin\Debug\PalindromeExample.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PalindromeExample\obj\Debug\PalindromeExample.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PalindromeExample\obj\Debug\PalindromeExample.pdb

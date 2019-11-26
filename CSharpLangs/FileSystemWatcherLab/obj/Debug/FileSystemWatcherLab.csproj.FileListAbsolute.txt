@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileSystemWatcherLab\bin\Debug\FileSystemWatcherLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileSystemWatcherLab\bin\Debug\FileSystemWatcherLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileSystemWatcherLab\bin\Debug\FileSystemWatcherLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileSystemWatcherLab\obj\Debug\FileSystemWatcherLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileSystemWatcherLab\obj\Debug\FileSystemWatcherLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileSystemWatcherLab\obj\Debug\FileSystemWatcherLab.pdb

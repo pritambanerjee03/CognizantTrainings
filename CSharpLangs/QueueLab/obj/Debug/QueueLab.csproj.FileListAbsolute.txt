@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\QueueLab\bin\Debug\QueueLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\QueueLab\bin\Debug\QueueLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\QueueLab\bin\Debug\QueueLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\QueueLab\obj\Debug\QueueLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\QueueLab\obj\Debug\QueueLab.pdb

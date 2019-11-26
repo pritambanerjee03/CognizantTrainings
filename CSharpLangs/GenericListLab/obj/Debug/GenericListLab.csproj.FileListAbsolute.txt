@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GenericListLab\obj\Debug\GenericListLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GenericListLab\bin\Debug\GenericListLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GenericListLab\bin\Debug\GenericListLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GenericListLab\bin\Debug\GenericListLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GenericListLab\obj\Debug\GenericListLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GenericListLab\obj\Debug\GenericListLab.pdb

@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\InheritanceLab\bin\Debug\InheritanceLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\InheritanceLab\bin\Debug\InheritanceLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\InheritanceLab\bin\Debug\InheritanceLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\InheritanceLab\obj\Debug\InheritanceLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\InheritanceLab\obj\Debug\InheritanceLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\InheritanceLab\obj\Debug\InheritanceLab.pdb

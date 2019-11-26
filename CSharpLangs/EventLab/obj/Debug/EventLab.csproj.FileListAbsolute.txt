@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EventLab\bin\Debug\EventLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EventLab\bin\Debug\EventLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EventLab\bin\Debug\EventLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EventLab\obj\Debug\EventLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EventLab\obj\Debug\EventLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EventLab\obj\Debug\EventLab.pdb

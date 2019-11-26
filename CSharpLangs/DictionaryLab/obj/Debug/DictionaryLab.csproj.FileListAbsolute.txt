@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\DictionaryLab\bin\Debug\DictionaryLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\DictionaryLab\bin\Debug\DictionaryLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\DictionaryLab\bin\Debug\DictionaryLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\DictionaryLab\obj\Debug\DictionaryLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\DictionaryLab\obj\Debug\DictionaryLab.pdb

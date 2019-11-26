@@ -1,0 +1,13 @@
+doctype html
+head
+    title pug Sample
+    
+h1 This is heading 1
+p This is a paragraph.
+- var values = ['one','two','three'];
+
+ul
+    each val in values
+        li= val
+    else
+        li There is no value

@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IndexerLab1\bin\Debug\IndexerLab1.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IndexerLab1\bin\Debug\IndexerLab1.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IndexerLab1\bin\Debug\IndexerLab1.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IndexerLab1\obj\Debug\IndexerLab1.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IndexerLab1\obj\Debug\IndexerLab1.pdb

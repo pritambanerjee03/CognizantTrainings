@@ -1,0 +1,33 @@
+<% include ../header %>
+
+<div class="container">
+        <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-4  border-class">
+                <br><br>
+                    <h4>HTML Forms to Update Employee</h4>
+                    <form action="/update_employee/<%= record._id %>" method="POST">
+                        <div class="form-group">
+                            <label >Employee Id:</label>
+                            <input type="text" class="form-control" name="employee_id" placeholder="ID" value="<%= record._id %>" disabled>
+                        </div>
+                        <div class="form-group">
+                                <label >Employee Code:</label>
+                                <input type="text" class="form-control" name="employee_code" placeholder="emp code" value="<%= record.code %>">
+                        </div>
+                        <div class="form-group">
+                                <label >Employee Name:</label>
+                                <input type="text" class="form-control" name="employee_name" placeholder="name" value="<%= record.name %>">
+                            </div>
+                        <div class="form-group">
+                                <label >Employee Designation:</label>
+                                <input type="text" class="form-control" name="employee_designation" placeholder="designation" value="<%= record.designation %>">
+                        </div>
+    
+                        <button type="submit" class="btn btn-primary">Save</button>
+                    </form>
+            </div>
+        </div>
+    </div>
+        
+<% include ../footer %>

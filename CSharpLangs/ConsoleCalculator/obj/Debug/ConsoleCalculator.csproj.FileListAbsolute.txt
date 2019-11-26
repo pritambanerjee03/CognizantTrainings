@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ConsoleCalculator\obj\Debug\ConsoleCalculator.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb

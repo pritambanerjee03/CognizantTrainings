@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\HellloWorld\bin\Debug\HellloWorld.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\HellloWorld\bin\Debug\HellloWorld.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\HellloWorld\bin\Debug\HellloWorld.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\HellloWorld\obj\Debug\HellloWorld.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\HellloWorld\obj\Debug\HellloWorld.pdb

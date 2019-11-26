@@ -1,0 +1,22 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Sebastian",
+        "company": "CTS",
+        "place": "Chennai"
+      },
+      {
+        "id": 2,
+        "name": "pritam",
+        "company": "CTS",
+        "place": "Mumbai"
+      },
+      {
+        "id": 3,
+        "name": "Kenny",
+        "company": "CTS",
+        "place": "Kolkata"
+      }
+    ]
+  }

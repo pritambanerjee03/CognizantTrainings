@@ -1,0 +1,16 @@
+table(border='1' cellpadding='10' cellspacing='0')
+    thead
+        tr
+            th #
+            th _id
+            th Emp_code
+            th Name
+            th Designation
+    tbody
+        each record, i in records
+            tr
+                td= i+1
+                td= record._id
+                td= record.code
+                td= record.name
+                td= record.designation

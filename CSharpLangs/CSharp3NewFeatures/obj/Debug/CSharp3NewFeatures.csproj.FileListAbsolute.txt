@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CSharp3NewFeatures\bin\Debug\CSharp3NewFeatures.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CSharp3NewFeatures\bin\Debug\CSharp3NewFeatures.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CSharp3NewFeatures\bin\Debug\CSharp3NewFeatures.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CSharp3NewFeatures\obj\Debug\CSharp3NewFeatures.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CSharp3NewFeatures\obj\Debug\CSharp3NewFeatures.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CSharp3NewFeatures\obj\Debug\CSharp3NewFeatures.pdb

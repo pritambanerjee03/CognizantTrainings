@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ComplexNoLab\bin\Debug\ComplexNoLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ComplexNoLab\bin\Debug\ComplexNoLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ComplexNoLab\bin\Debug\ComplexNoLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ComplexNoLab\obj\Debug\ComplexNoLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ComplexNoLab\obj\Debug\ComplexNoLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ComplexNoLab\obj\Debug\ComplexNoLab.pdb

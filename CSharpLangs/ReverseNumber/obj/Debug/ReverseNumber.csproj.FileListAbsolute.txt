@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ReverseNumber\bin\Debug\ReverseNumber.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ReverseNumber\bin\Debug\ReverseNumber.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ReverseNumber\bin\Debug\ReverseNumber.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ReverseNumber\obj\Debug\ReverseNumber.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ReverseNumber\obj\Debug\ReverseNumber.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ReverseNumber\obj\Debug\ReverseNumber.pdb

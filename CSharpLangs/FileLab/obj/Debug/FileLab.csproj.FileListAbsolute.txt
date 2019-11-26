@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileLab\bin\Debug\FileLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileLab\bin\Debug\FileLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileLab\bin\Debug\FileLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileLab\obj\Debug\FileLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileLab\obj\Debug\FileLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\FileLab\obj\Debug\FileLab.pdb

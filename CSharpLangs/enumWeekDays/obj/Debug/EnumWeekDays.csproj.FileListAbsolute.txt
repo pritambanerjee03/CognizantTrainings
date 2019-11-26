@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\enumWeekDays\bin\Debug\enumWeekDays.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\enumWeekDays\bin\Debug\enumWeekDays.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\enumWeekDays\bin\Debug\enumWeekDays.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\enumWeekDays\obj\Debug\EnumWeekDays.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\enumWeekDays\obj\Debug\enumWeekDays.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\enumWeekDays\obj\Debug\enumWeekDays.pdb

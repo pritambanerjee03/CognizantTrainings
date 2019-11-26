@@ -1,0 +1,12 @@
+MVC 
+
+M FOR db
+v for Browser/Output
+C for 
+
+1. Jade/Pug
+2. Embeded JavaScript
+3. Blade
+4. Smartry
+
+npm i pug --save

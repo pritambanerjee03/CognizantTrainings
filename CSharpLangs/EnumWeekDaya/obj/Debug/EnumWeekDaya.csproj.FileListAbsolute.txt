@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EnumWeekDaya\bin\Debug\EnumWeekDaya.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EnumWeekDaya\bin\Debug\EnumWeekDaya.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EnumWeekDaya\bin\Debug\EnumWeekDaya.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EnumWeekDaya\obj\Debug\EnumWeekDaya.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\EnumWeekDaya\obj\Debug\EnumWeekDaya.pdb

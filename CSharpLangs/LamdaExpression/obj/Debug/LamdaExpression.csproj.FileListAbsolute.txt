@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\LamdaExpression\bin\Debug\LamdaExpression.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\LamdaExpression\bin\Debug\LamdaExpression.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\LamdaExpression\bin\Debug\LamdaExpression.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\LamdaExpression\obj\Debug\LamdaExpression.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\LamdaExpression\obj\Debug\LamdaExpression.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\LamdaExpression\obj\Debug\LamdaExpression.pdb

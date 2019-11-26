@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\SerializationLab\bin\Debug\SerializationLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\SerializationLab\bin\Debug\SerializationLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\SerializationLab\bin\Debug\SerializationLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\SerializationLab\obj\Debug\SerializationLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\SerializationLab\obj\Debug\SerializationLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\SerializationLab\obj\Debug\SerializationLab.pdb

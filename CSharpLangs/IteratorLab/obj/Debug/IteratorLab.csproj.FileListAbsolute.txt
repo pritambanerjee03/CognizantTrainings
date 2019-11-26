@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IteratorLab\obj\Debug\IteratorLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IteratorLab\bin\Debug\IteratorLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IteratorLab\bin\Debug\IteratorLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IteratorLab\bin\Debug\IteratorLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IteratorLab\obj\Debug\IteratorLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\IteratorLab\obj\Debug\IteratorLab.pdb

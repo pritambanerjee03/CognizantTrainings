@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CircleArea\bin\Debug\CircleArea.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CircleArea\bin\Debug\CircleArea.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CircleArea\bin\Debug\CircleArea.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CircleArea\obj\Debug\CircleArea.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CircleArea\obj\Debug\CircleArea.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\CircleArea\obj\Debug\CircleArea.pdb

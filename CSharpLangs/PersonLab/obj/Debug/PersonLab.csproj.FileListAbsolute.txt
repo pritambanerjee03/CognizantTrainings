@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PersonLab\bin\Debug\PersonLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PersonLab\bin\Debug\PersonLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PersonLab\bin\Debug\PersonLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PersonLab\obj\Debug\PersonLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PersonLab\obj\Debug\PersonLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\PersonLab\obj\Debug\PersonLab.pdb

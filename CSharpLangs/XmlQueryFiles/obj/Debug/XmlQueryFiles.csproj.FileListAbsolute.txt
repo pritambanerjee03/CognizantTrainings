@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\XmlQueryFiles\bin\Debug\XmlQueryFiles.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\XmlQueryFiles\bin\Debug\XmlQueryFiles.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\XmlQueryFiles\bin\Debug\XmlQueryFiles.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\XmlQueryFiles\obj\Debug\XmlQueryFiles.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\XmlQueryFiles\obj\Debug\XmlQueryFiles.pdb

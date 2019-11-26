@@ -1,0 +1,5 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ProgramingExample\bin\Debug\ProgramingExample.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ProgramingExample\bin\Debug\ProgramingExample.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ProgramingExample\bin\Debug\ProgramingExample.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ProgramingExample\obj\Debug\ProgramingExample.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ProgramingExample\obj\Debug\ProgramingExample.pdb

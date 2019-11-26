@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\AccountsLab\bin\Debug\AccountsLab.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\AccountsLab\bin\Debug\AccountsLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\AccountsLab\bin\Debug\AccountsLab.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\AccountsLab\obj\Debug\AccountsLab.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\AccountsLab\obj\Debug\AccountsLab.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\AccountsLab\obj\Debug\AccountsLab.pdb

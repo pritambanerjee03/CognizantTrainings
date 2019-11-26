@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GameOfThrones\bin\Debug\GameOfThrones.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GameOfThrones\bin\Debug\GameOfThrones.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GameOfThrones\bin\Debug\GameOfThrones.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GameOfThrones\obj\Debug\GameOfThrones.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GameOfThrones\obj\Debug\GameOfThrones.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\GameOfThrones\obj\Debug\GameOfThrones.pdb

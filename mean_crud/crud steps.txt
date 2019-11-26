@@ -1,0 +1,103 @@
+create a new folder like mean_crud
+
+1. initiate a new project with > npm init
+2. npm i express --save  or npm install express
+3. create a server.js file or app.js / index.js
+
+    const express = require('express');
+    const app = express();
+
+    app.listen(3000, () => {
+        console.log('Server is runnig at port 3000')
+    });
+
+4. if you run on localhost:3000 you will get cannot GET/ messsage so 
+    you have to add get request in server.js file
+
+    app.get('/', (req,res) => {
+
+        res.send("Hello World")
+    });
+
+5. install Node Monitor MOdule and chages is done at every portion
+    >npm i nodemon --save-dev
+    //in scripts on package .json file include
+        "dev": "nodemon ./server.js"
+    from now on just run as "npm run dev" only once from command promt 
+    and it will take the changes in server.js file
+
+6. create a folder config withinthat create a file config.js
+    and within config file 
+
+    module.exports= {
+    "port_no"   : 3000,
+    "database_name" : "pritam_db"
+}
+
+    //and then change server.js file have to change like this
+        const express = require('express');
+        const app = express();
+
+        var config = require('./config/config')
+
+        app.get('/', (req,res) => {
+
+            res.send("Hello World")
+        });
+
+        app.listen(config.port_no, () => {
+
+            console.log(config)
+            console.log('Server is runnig at port '+config.port_no)
+        });
+
+7.  remove the hard coded value of port no 3000
+    and use the form on sever.js
+
+    app.set('port_no',config.port_no)
+    app.listen(app.get('port_no'), () => {
+
+        console.log(`Server is runnig at port ${app.get('port_no')}`)
+    });
+
+8. create a simple html file and send the file to browser changing on server.js file
+
+    app.get('/', (req,res) => {
+    res.sendFile(__dirname + '/home.html')
+    });
+
+    home.html
+    ------------
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Mean CREUD by Pritam</title>
+    </head>
+    <body>
+        <h1>This is a heading</h1>
+        <p>This is a paragraph</p>
+    </body>
+    </html>
+
+9.  install embeded javascript (ejs)
+    > npm install ejs --save
+
+    change the config file like this
+    module.exports= {
+    "port_no"   : 3000,
+    "database_name" : "pritam_db",
+    "view_engine" : "ejs"
+    }
+
+    and make a file view1.ejs under views folder
+    and change in server.js program
+
+    app.get('/', (req,res) => {
+    res.render('view1')
+    });
+
+10. make a employee folder under views folder and within 
+

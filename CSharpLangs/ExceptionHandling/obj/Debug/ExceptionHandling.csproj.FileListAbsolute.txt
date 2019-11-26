@@ -1,0 +1,6 @@
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+E:\pritam802286\.Net Fundamentals\CSharpLangs\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

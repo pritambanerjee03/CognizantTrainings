@@ -1,0 +1,20 @@
+doctype html
+head
+    title pug Sample
+    
+h1 This is heading 1
+p This is a paragraph.
+p This is a List.
+ul
+    each val in [1, 2, 3, 4, 5]
+        li= 'list item : '+val
+p ---------------------------
+p This is another List.
+ul
+    each val, index in ['zero', 'one', 'two']
+        li= index + ': '+ val
+p ---------------------------iterate over keys in ana object
+p This is another List.
+ul
+    each val, index in {1:'one',2:'two',3:'three'}
+        li= index + ': '+ val
